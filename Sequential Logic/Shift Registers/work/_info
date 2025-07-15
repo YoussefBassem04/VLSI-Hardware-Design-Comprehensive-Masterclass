@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Sequential Logic
+vpiso_SR
+Z1 !s110 1752361822
+!i10b 1
+!s100 ol1l_?5^54<TZ_Af`DEeT2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT=NoED>cWKKdXW9K6i=590
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752361236
+8PISO.v
+FPISO.v
+!i122 31
+L0 1 20
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752361822.000000
+!s107 tb_SR.v|SISO.v|SIPO_V2.v|SIPO.v|PISO.v|
+Z6 !s90 -reportprogress|300|PISO.v|SIPO.v|SIPO_V2.v|SISO.v|tb_SR.v|
+!i113 1
+Z7 tCvgOpt 0
+npiso_@s@r
+vsipo_SR
+R1
+!i10b 1
+!s100 RfV_U]ECLAUQB[9l[hh=F1
+R2
+IdoY>Y_=YFZ`L6<0iNDigF1
+R3
+R0
+w1752357714
+8SIPO.v
+FSIPO.v
+!i122 31
+L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_SR.v|SISO.v|SIPO_V2.v|SIPO.v|PISO.v|
+R6
+!i113 1
+R7
+nsipo_@s@r
+vsipo_SR_V2
+R1
+!i10b 1
+!s100 6P:iD91zJ`oVo9>f9gXRc2
+R2
+IL=2fG`@759jIO<=J3QG581
+R3
+R0
+w1752360395
+8SIPO_V2.v
+FSIPO_V2.v
+!i122 31
+Z9 L0 1 16
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nsipo_@s@r_@v2
+vsiso_SR
+R1
+!i10b 1
+!s100 Sa53[WJ6fcKTl`To]Fogz3
+R2
+I`iAag3e]E7B:glgK230MQ2
+R3
+R0
+w1752361812
+8SISO.v
+FSISO.v
+!i122 31
+R9
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nsiso_@s@r
+vsr_DUT
+R1
+!i10b 1
+!s100 INI:UW7XZCIM]@81W;1S53
+R2
+Ib_J<6czQokCdfRO:zW7Z;2
+R3
+R0
+w1752361669
+8tb_SR.v
+Ftb_SR.v
+!i122 31
+L0 2 49
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nsr_@d@u@t

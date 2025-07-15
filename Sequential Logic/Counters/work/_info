@@ -1,0 +1,213 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Sequential Logic/Counters
+vcounter_10_to_40_up
+Z1 !s110 1752407847
+!i10b 1
+!s100 UkASL;PiF0nHBLgiRSXOf1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IH<:gUA?ce]TL05Z`?GF_12
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752406217
+8counter_range_up.v
+Fcounter_range_up.v
+!i122 10
+L0 1 10
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752407847.000000
+!s107 tb_up_load.v|tb_up_down.v|tb_range.v|tb_mod47.v|counter_up_load.v|counter_up_down.v|counter_range_up.v|counter_mod47.v|
+Z6 !s90 counter_mod47.v|counter_range_up.v|counter_up_down.v|counter_up_load.v|tb_mod47.v|tb_range.v|tb_up_down.v|tb_up_load.v|
+!i113 1
+Z7 tCvgOpt 0
+vcounter_mod47_up
+R1
+!i10b 1
+!s100 [[A3Y8IX=``oGOhS1F:kI3
+R2
+IN?NbL46TEV986XfD99oWH3
+R3
+R0
+w1752406222
+8counter_mod47.v
+Fcounter_mod47.v
+!i122 10
+L0 1 12
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_up_load.v|tb_up_down.v|tb_range.v|tb_mod47.v|counter_up_load.v|counter_up_down.v|counter_range_up.v|counter_mod47.v|
+R6
+!i113 1
+R7
+vcounter_up_down
+R1
+!i10b 1
+!s100 H@=WG9@@CBB^PfTRbKZAD2
+R2
+ImD;`OHHaJW4VUcO[?;bD11
+R3
+R0
+w1752407466
+8counter_up_down.v
+Fcounter_up_down.v
+!i122 10
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vcounter_up_load
+R1
+!i10b 1
+!s100 l6PzLUACbU0SPmTa7ij5c2
+R2
+I_3@:J[L7V5D6Hid=TfiU>3
+R3
+R0
+w1752406261
+8counter_up_load.v
+Fcounter_up_load.v
+!i122 10
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vmod47_DUT
+R1
+!i10b 1
+!s100 2TIlE0laIHPhM><CV7kMj1
+R2
+I^e7A2RBO:gNTIhYIegj6L2
+R3
+R0
+w1752407665
+8tb_mod47.v
+Ftb_mod47.v
+!i122 10
+Z9 L0 1 23
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nmod47_@d@u@t
+vrange_DUT
+R1
+!i10b 1
+!s100 <ZjJ6Uf54Sd`M`8D5T4zU3
+R2
+IN54Nz5;TC[]HA:Sm5mk^N1
+R3
+R0
+w1752407801
+8tb_range.v
+Ftb_range.v
+!i122 10
+R9
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nrange_@d@u@t
+vup_down_dut
+!s110 1752407291
+!i10b 1
+!s100 TY=<@ZKdcF<eAO7z[^m5M1
+R2
+IP??SK9e[S>hM71IXKS@9;2
+R3
+R0
+w1752407286
+Z10 8tb_up_down.v
+Z11 Ftb_up_down.v
+!i122 4
+Z12 L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1752407291.000000
+!s107 tb_up_load.v|tb_up_down.v|counter_up_load.v|counter_up_down.v|counter_range_up.v|counter_mod47.v|
+!s90 counter_mod47.v|counter_range_up.v|counter_up_down.v|counter_up_load.v|tb_up_down.v|tb_up_load.v|
+!i113 1
+R7
+vup_down_DUT
+R1
+!i10b 1
+!s100 BL4Qaj>nMcZcOe^9ZiF?21
+R2
+Ik6DV`:FLW0@62e[bZDQ^`2
+R3
+R0
+w1752407364
+R10
+R11
+!i122 10
+R12
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nup_down_@d@u@t
+vup_load_DUT
+R1
+!i10b 1
+!s100 @i2:cfTQGG`?n^RNK]_6e3
+R2
+I;6T?1M@X6kQAz3HMWOm9z1
+R3
+R0
+w1752406960
+8tb_up_load.v
+Ftb_up_load.v
+!i122 10
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nup_load_@d@u@t

@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Combinational Logic/decoder
+vdecoder_2to4_bh
+Z1 !s110 1752318391
+!i10b 1
+!s100 M1UZj``<GbLdO5G]2V_R63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlSd7]6iR<2ze6aWm;KeL31
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752318389
+8decoder_2_4_bh.v
+Fdecoder_2_4_bh.v
+!i122 4
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752318391.000000
+!s107 encoder_4_2_df.v|encoder_4_2_bh.v|decoder_2_4_df.v|decoder_2_4_bh.v|
+Z6 !s90 decoder_2_4_bh.v|decoder_2_4_df.v|encoder_4_2_bh.v|encoder_4_2_df.v|
+!i113 1
+Z7 tCvgOpt 0
+vdecoder_2to4_df
+R1
+!i10b 1
+!s100 AkL8hC@Be5Q1kbzfJOUB`3
+R2
+I8nflmCHYcFCXmbV<GODDB3
+R3
+R0
+w1752318341
+8decoder_2_4_df.v
+Fdecoder_2_4_df.v
+!i122 4
+L0 1 8
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 encoder_4_2_df.v|encoder_4_2_bh.v|decoder_2_4_df.v|decoder_2_4_bh.v|
+R6
+!i113 1
+R7
+vencoder_4_2_bh
+R1
+!i10b 1
+!s100 [iin`1jKYYi>l7A=24S>i0
+R2
+Icz4A`h@Y<nPIeXiX36h_F2
+R3
+R0
+w1752318357
+8encoder_4_2_bh.v
+Fencoder_4_2_bh.v
+!i122 4
+L0 1 17
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vencoder_4_2_df
+R1
+!i10b 1
+!s100 Q8bj;1G1c]^ClaBUg]d=E1
+R2
+IjJmZJaiE7afP1_`Ia20H31
+R3
+R0
+w1752316714
+8encoder_4_2_df.v
+Fencoder_4_2_df.v
+!i122 4
+L0 1 10
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

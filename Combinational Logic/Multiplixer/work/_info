@@ -1,0 +1,211 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Combinational Logic/Multiplixer
+vmux_2to1_bh
+Z1 !s110 1752279575
+!i10b 1
+!s100 @YOQUCIIG7lD0YD>YF7hM0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWTna58i?N8`:GIX=8J<Sc3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752279220
+8mux_2_1_bh.v
+Fmux_2_1_bh.v
+!i122 17
+Z4 L0 1 14
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1752279575.000000
+!s107 tb_mux_4_1.v|tb_mux_2_1.v|mux_4_1_st.v|mux_4_1_df3.v|mux_4_1_df2.v|mux_4_1_df.v|mux_4_1_bh.v|mux_2_1_df.v|mux_2_1_bh.v|
+Z7 !s90 mux_2_1_bh.v|mux_2_1_df.v|mux_4_1_bh.v|mux_4_1_df.v|mux_4_1_df2.v|mux_4_1_df3.v|mux_4_1_st.v|tb_mux_2_1.v|tb_mux_4_1.v|
+!i113 1
+Z8 tCvgOpt 0
+vmux_2to1_df
+R1
+!i10b 1
+!s100 ?3iDzKkT7MGPFZm:BYT;E3
+R2
+IVnnDF@<J3d[:K41E;9?nZ0
+R3
+R0
+w1752279187
+8mux_2_1_df.v
+Fmux_2_1_df.v
+!i122 17
+Z9 L0 1 6
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 tb_mux_4_1.v|tb_mux_2_1.v|mux_4_1_st.v|mux_4_1_df3.v|mux_4_1_df2.v|mux_4_1_df.v|mux_4_1_bh.v|mux_2_1_df.v|mux_2_1_bh.v|
+R7
+!i113 1
+R8
+vmux_2to1_DUT
+R1
+!i10b 1
+!s100 C_NB^3ajPl4KO5jX15RZ20
+R2
+I5dFV7zkfggdn0@]0c=<dJ2
+R3
+R0
+w1752279293
+8tb_mux_2_1.v
+Ftb_mux_2_1.v
+!i122 17
+L0 1 25
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+nmux_2to1_@d@u@t
+vmux_4to1_bh
+R1
+!i10b 1
+!s100 ]OJYnQO;ogaV3g7HT6bK=3
+R2
+I0:=nY2Df_L1<S<b2Ue66K3
+R3
+R0
+w1752278662
+8mux_4_1_bh.v
+Fmux_4_1_bh.v
+!i122 17
+R4
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+vmux_4to1_df
+R1
+!i10b 1
+!s100 bWD_[diToQi52To^FaMoE1
+R2
+I@Kz`:JddRC@Oa;OLN?6U30
+R3
+R0
+w1752274648
+8mux_4_1_df.v
+Fmux_4_1_df.v
+!i122 17
+Z11 L0 1 8
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+vmux_4to1_df2
+R1
+!i10b 1
+!s100 _CJ^XBLj`YbOB=z`CF8cJ3
+R2
+IDbmBM?FIU5>WHGTeWUAdR1
+R3
+R0
+w1752274217
+8mux_4_1_df2.v
+Fmux_4_1_df2.v
+!i122 17
+R9
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+vmux_4to1_df3
+R1
+!i10b 1
+!s100 Y0Eb?iN2b6ebVDg6XPOzc3
+R2
+IPQW?RHn];NhDV7aoH`CS60
+R3
+R0
+w1752278414
+8mux_4_1_df3.v
+Fmux_4_1_df3.v
+!i122 17
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+vmux_4to1_DUT
+R1
+!i10b 1
+!s100 >i[Mnl`LP>j:zPHVV1CB50
+R2
+I66Iz1c<3kDBU=9EQ<3P?93
+R3
+R0
+w1752279573
+8tb_mux_4_1.v
+Ftb_mux_4_1.v
+!i122 17
+L0 1 32
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+nmux_4to1_@d@u@t
+vmux_4to1_st
+R1
+!i10b 1
+!s100 Ag2^A8gkO=`MR^z20TgH;2
+R2
+Il4TBPzdhD^5f=OO5o>MX40
+R3
+R0
+w1752278536
+8mux_4_1_st.v
+Fmux_4_1_st.v
+!i122 17
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8

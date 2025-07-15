@@ -1,0 +1,50 @@
+# vsim f_div_3_DUT 
+# Start time: 17:25:39 on Jul 13,2025
+# Loading work.f_div_3_DUT
+# Loading work.freq_div_3
+add wave -position insertpoint  \
+sim:/f_div_3_DUT/T \
+sim:/f_div_3_DUT/clk \
+sim:/f_div_3_DUT/rst \
+sim:/f_div_3_DUT/clk_3
+run -all
+# ** Note: $stop    : tb_f_div_3.v(17)
+#    Time: 205 ps  Iteration: 1  Instance: /f_div_3_DUT
+# Break in Module f_div_3_DUT at tb_f_div_3.v line 17
+vlog *.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:26:14 on Jul 13,2025
+# vlog -reportprogress 300 f_div_2.v f_div_3.v f_div_3_pwm.v f_div_4.v tb_f_div_2.v tb_f_div_3.v tb_f_div_4.v 
+# -- Compiling module freq_div_2
+# -- Compiling module freq_div_3
+# -- Compiling module freq_div_3_pwm
+# -- Compiling module freq_div_4
+# -- Compiling module f_div_2_DUT
+# -- Compiling module f_div_3_DUT
+# -- Compiling module f_div_4_DUT
+# 
+# Top level modules:
+# 	freq_div_3_pwm
+# 	f_div_2_DUT
+# 	f_div_3_DUT
+# 	f_div_4_DUT
+# End time: 17:26:14 on Jul 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim f_div_3_DUT
+# End time: 17:26:28 on Jul 13,2025, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 0
+# vsim f_div_3_DUT 
+# Start time: 17:26:28 on Jul 13,2025
+# Loading work.f_div_3_DUT
+# Loading work.freq_div_3
+add wave -position insertpoint  \
+sim:/f_div_3_DUT/T \
+sim:/f_div_3_DUT/clk \
+sim:/f_div_3_DUT/rst \
+sim:/f_div_3_DUT/clk_3
+run -all
+# ** Note: $stop    : tb_f_div_3.v(17)
+#    Time: 205 ps  Iteration: 1  Instance: /f_div_3_DUT
+# Break in Module f_div_3_DUT at tb_f_div_3.v line 17
+# End time: 17:27:37 on Jul 13,2025, Elapsed time: 0:01:09
+# Errors: 0, Warnings: 0

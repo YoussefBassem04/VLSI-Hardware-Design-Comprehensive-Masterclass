@@ -1,0 +1,189 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Verilog Basics
+vfull_adder_behavioral
+Z1 !s110 1752176926
+!i10b 1
+!s100 B?zg:29@<^]^GIa[3:nSl3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?>g6?DQiGkdz`jSbIDd;o1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752171191
+8FA_BH.v
+FFA_BH.v
+!i122 16
+Z4 L0 1 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1752176926.000000
+Z7 !s107 tb_FA_BH.v|HA_G.v|HA_DF.v|HA_BH.v|FA_ST.v|FA_DF.v|FA_BH.v|
+Z8 !s90 FA_BH.v|FA_DF.v|FA_ST.v|HA_BH.v|HA_DF.v|HA_G.v|tb_FA_BH.v|
+!i113 1
+Z9 tCvgOpt 0
+vfull_adder_behavioral_DUT
+!s110 1752176774
+!i10b 1
+!s100 ]KKX>8QEA[AdPO4BSFRPg1
+R2
+IIkMBXD9Z6TD>30J9U9FdW1
+R3
+R0
+w1752176767
+Z10 8tb_FA_BH.v
+Z11 Ftb_FA_BH.v
+!i122 13
+Z12 L0 1 25
+R5
+r1
+!s85 0
+31
+!s108 1752176773.000000
+R7
+R8
+!i113 1
+R9
+nfull_adder_behavioral_@d@u@t
+vfull_adder_dataflow
+R1
+!i10b 1
+!s100 VQfO7`6?NgSa[8?XQaJDi2
+R2
+IYNedCmfV>z_Si@Qbgh;7C1
+R3
+R0
+w1752176888
+8FA_DF.v
+FFA_DF.v
+!i122 16
+Z13 L0 1 5
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vfull_adder_DUT
+R1
+!i10b 1
+!s100 ZiLF_`R92CK:<azKE<dnG1
+R2
+IfaoC1I_@PNL7SHEJLmXJC0
+R3
+R0
+w1752176918
+R10
+R11
+!i122 16
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+nfull_adder_@d@u@t
+vfull_adder_structural
+R1
+!i10b 1
+!s100 eJfL<Joa5CAah;B^NBl<V0
+R2
+I>:nj5h[i62FCX:;lRQ5S[0
+R3
+R0
+w1752176915
+8FA_ST.v
+FFA_ST.v
+!i122 16
+L0 1 10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vhalf_adder_behavioral
+R1
+!i10b 1
+!s100 @HdIa@Pa93fBPHBXT=SZ=2
+R2
+IdFh7[Yl]C6Y6IHbQY4lAN0
+R3
+R0
+w1752170626
+8HA_BH.v
+FHA_BH.v
+!i122 16
+L0 1 8
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vhalf_adder_dataflow
+R1
+!i10b 1
+!s100 hlem=6U=ez>0d_lWSZU4d3
+R2
+I^YI]XUc<IIahdBnM<W=Bo3
+R3
+R0
+w1752170549
+8HA_DF.v
+FHA_DF.v
+!i122 16
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vhalf_adder_gate
+R1
+!i10b 1
+!s100 W8oT2<_bEjekNKSH2n37A2
+R2
+IZ3FM:h:1dXS[Y?S?K0S=a2
+R3
+R0
+w1752170466
+8HA_G.v
+FHA_G.v
+!i122 16
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9

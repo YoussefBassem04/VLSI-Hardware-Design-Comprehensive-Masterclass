@@ -1,0 +1,122 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Combinational Logic
+vfull_adder
+Z0 !s110 1752264128
+!i10b 1
+!s100 9P^eYY[i[f?X9^i>I5jkh0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_Fh9_I5Hg7hQiSdF99d`X3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Combinational Logic/Full_Adder
+w1752262550
+8FA_BH.v
+FFA_BH.v
+!i122 6
+Z4 L0 1 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1752264128.000000
+!s107 tb_FA.v|FA_ST_4.v|FA_DF_4.v|FA_BH_4.v|FA_BH.v|
+Z7 !s90 FA_BH.v|FA_BH_4.v|FA_DF_4.v|FA_ST_4.v|tb_FA.v|
+!i113 1
+Z8 tCvgOpt 0
+vfull_adder_4bit_bh
+R0
+!i10b 1
+!s100 oP@@FK9c1Y7K0h?z1TdC;1
+R1
+IYS88<nOC@dF?[g?BiDdG73
+R2
+R3
+w1752263850
+8FA_BH_4.v
+FFA_BH_4.v
+!i122 6
+L0 1 7
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 tb_FA.v|FA_ST_4.v|FA_DF_4.v|FA_BH_4.v|FA_BH.v|
+R7
+!i113 1
+R8
+vfull_adder_4bit_df
+R0
+!i10b 1
+!s100 W>80;7`WNbz_6II=[k4kH2
+R1
+I:Wn4WN3eoWK@AFzLDiAfj0
+R2
+R3
+w1752263045
+8FA_DF_4.v
+FFA_DF_4.v
+!i122 6
+R4
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vfull_adder_4bit_DUT
+R0
+!i10b 1
+!s100 ZG74X0g@^8C_0[jm1obAF2
+R1
+I`gz?C13QS6XGD3>RW`J7S0
+R2
+R3
+w1752263976
+8tb_FA.v
+Ftb_FA.v
+!i122 6
+L0 1 31
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nfull_adder_4bit_@d@u@t
+vfull_adder_4bit_st
+R0
+!i10b 1
+!s100 S2U1fKP97mDV21KOeBa?=1
+R1
+IeSdi[RXHBKcnHo_e5nKJ31
+R2
+R3
+w1752262916
+8FA_ST_4.v
+FFA_ST_4.v
+!i122 6
+L0 1 11
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8

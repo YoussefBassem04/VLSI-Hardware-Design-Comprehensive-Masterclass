@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Combinational Logic/ALU
+vALU
+Z1 !s110 1752326272
+!i10b 1
+!s100 LcPB64:IAa@MKDPNJJhdN1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7ogd6CV36?3niGS8z?3K43
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752325851
+8ALU.v
+FALU.v
+!i122 2
+L0 1 29
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752326272.000000
+!s107 tb_ALU.v|ALU.v|
+Z6 !s90 ALU.v|tb_ALU.v|
+!i113 1
+Z7 tCvgOpt 0
+n@a@l@u
+vALU_DUT
+R1
+!i10b 1
+!s100 n?j]`YKDTE7;c9WiLTjK@3
+R2
+I9>zHCz^Vil1>@JLL]egiL1
+R3
+R0
+w1752326270
+8tb_ALU.v
+Ftb_ALU.v
+!i122 2
+L0 1 54
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_ALU.v|ALU.v|
+R6
+!i113 1
+R7
+n@a@l@u_@d@u@t

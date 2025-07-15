@@ -1,0 +1,168 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/Sequential Logic/Frequency_Divider
+vf_div_2_DUT
+Z1 !s110 1752416774
+!i10b 1
+!s100 eXP1ZUH>GiF_:iJI06CZC1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IdJgZ5UOWb0X<^WIY5iL@o2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752409870
+8tb_f_div_2.v
+Ftb_f_div_2.v
+!i122 13
+Z4 L0 1 21
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1752416774.000000
+!s107 tb_f_div_4.v|tb_f_div_3.v|tb_f_div_2.v|f_div_4.v|f_div_3_pwm.v|f_div_3.v|f_div_2.v|
+Z7 !s90 -reportprogress|300|f_div_2.v|f_div_3.v|f_div_3_pwm.v|f_div_4.v|tb_f_div_2.v|tb_f_div_3.v|tb_f_div_4.v|
+!i113 1
+Z8 tCvgOpt 0
+nf_div_2_@d@u@t
+vf_div_3_DUT
+R1
+!i10b 1
+!s100 JLB3AfKS6m=T30<G>jzBL3
+R2
+IzdlB=6F0X;37^B=R2;3>F0
+R3
+R0
+w1752416768
+8tb_f_div_3.v
+Ftb_f_div_3.v
+!i122 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 tb_f_div_4.v|tb_f_div_3.v|tb_f_div_2.v|f_div_4.v|f_div_3_pwm.v|f_div_3.v|f_div_2.v|
+R7
+!i113 1
+R8
+nf_div_3_@d@u@t
+vf_div_4_DUT
+R1
+!i10b 1
+!s100 ]YbQG4ooZJNlJf^iIfZ@Y2
+R2
+I;=o7>kZWC:RNHGZYBBVNE0
+R3
+R0
+w1752411232
+8tb_f_div_4.v
+Ftb_f_div_4.v
+!i122 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nf_div_4_@d@u@t
+vfreq_div_2
+R1
+!i10b 1
+!s100 PJog6dMVm:Fz0=IFF_S1F0
+R2
+Ik:aN1di35ln9T2@ZhN9b80
+R3
+R0
+w1752409631
+8f_div_2.v
+Ff_div_2.v
+!i122 13
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vfreq_div_3
+R1
+!i10b 1
+!s100 @U`KIk4OZ;BLe3egVW0V^3
+R2
+I_HGEjFom2Q@^IJ[e<FT]K0
+R3
+R0
+w1752416699
+8f_div_3.v
+Ff_div_3.v
+!i122 13
+L0 1 27
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vfreq_div_3_pwm
+R1
+!i10b 1
+!s100 8jZV_U@V^CJU[5kUg423Y0
+R2
+IU^QBPIZKcgZNKS0:>NW=U0
+R3
+R0
+w1752416662
+8f_div_3_pwm.v
+Ff_div_3_pwm.v
+!i122 13
+L0 1 17
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vfreq_div_4
+R1
+!i10b 1
+!s100 mJQEc=aL7D4WES6UR9TB=1
+R2
+IBc:G@dd86UP=A2^oMLUFT0
+R3
+R0
+w1752411174
+8f_div_4.v
+Ff_div_4.v
+!i122 13
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8

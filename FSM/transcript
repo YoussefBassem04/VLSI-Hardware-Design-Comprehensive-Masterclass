@@ -1,0 +1,37 @@
+# vsim tb_color_balls_box -c -do "run -all" 
+# Start time: 04:15:09 on Jul 15,2025
+# Loading work.tb_color_balls_box
+# Loading work.color_balls_box
+# run -all
+# 
+# --- Test 1: R -> G -> B ---
+# Red   	det = 0
+# Green 	det = 0
+# Blue  	det = 1
+# 
+# --- Test 2: B -> R -> G ---
+# Blue  	det = 0
+# Red   	det = 0
+# Green 	det = 1
+# 
+# --- Test 3: G -> B -> R ---
+# Green 	det = 0
+# Blue  	det = 0
+# Red   	det = 1
+# 
+# --- Test 4: Repeating R Only ---
+# Red   	det = 0
+# Red   	det = 0
+# Red   	det = 0
+# 
+# --- Test 5: R -> G -> R -> B (non-overlapping) ---
+# Red   	det = 0
+# Green 	det = 0
+# Red   	det = 0
+# Blue  	det = 1
+# 
+# --- Testbench Finished ---
+# ** Note: $finish    : tb_color_box.v(98)
+#    Time: 256 ns  Iteration: 0  Instance: /tb_color_balls_box
+# End time: 04:15:09 on Jul 15,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

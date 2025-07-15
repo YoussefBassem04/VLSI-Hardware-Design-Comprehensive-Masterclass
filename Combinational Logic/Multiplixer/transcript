@@ -1,0 +1,43 @@
+# vsim mux_4to1_DUT -c -do "run -all" 
+# Start time: 03:19:37 on Jul 12,2025
+# Loading work.mux_4to1_DUT
+# Loading work.mux_4to1_st
+# Loading work.mux_2to1_df
+# run -all
+# I = 0000	sel = 00	Y = 0
+# I = 0100	sel = 00	Y = 0
+# I = 0100	sel = 01	Y = 0
+# I = 1001	sel = 01	Y = 0
+# I = 1001	sel = 11	Y = 1
+# I = 1101	sel = 11	Y = 1
+# I = 1101	sel = 01	Y = 0
+# I = 0101	sel = 01	Y = 0
+# I = 0101	sel = 10	Y = 1
+# I = 0001	sel = 10	Y = 0
+# I = 0001	sel = 01	Y = 0
+# I = 0110	sel = 01	Y = 1
+# I = 1101	sel = 01	Y = 0
+# I = 1101	sel = 00	Y = 1
+# I = 1001	sel = 00	Y = 1
+# I = 1001	sel = 10	Y = 0
+# I = 0101	sel = 10	Y = 1
+# I = 0101	sel = 11	Y = 0
+# I = 0010	sel = 11	Y = 0
+# I = 0010	sel = 10	Y = 0
+# I = 1000	sel = 10	Y = 0
+# I = 1000	sel = 01	Y = 0
+# I = 1100	sel = 01	Y = 0
+# I = 1101	sel = 01	Y = 0
+# I = 0011	sel = 01	Y = 1
+# I = 0011	sel = 10	Y = 0
+# I = 0000	sel = 10	Y = 0
+# I = 0000	sel = 00	Y = 0
+# I = 1010	sel = 00	Y = 0
+# I = 1010	sel = 01	Y = 1
+# I = 0110	sel = 01	Y = 1
+# I = 0110	sel = 11	Y = 0
+# I = 1101	sel = 11	Y = 1
+# ** Note: $finish    : tb_mux_4_1.v(25)
+#    Time: 410 ps  Iteration: 0  Instance: /mux_4to1_DUT
+# End time: 03:19:37 on Jul 12,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
