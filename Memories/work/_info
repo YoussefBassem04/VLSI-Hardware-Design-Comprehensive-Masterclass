@@ -1,0 +1,145 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Electronics - Analog and Digital/IEEE/Digital Design/Labs/Lab_6
+vdual_port_ram
+Z1 !s110 1752502888
+!i10b 1
+!s100 g;J09?oedbGQ5<mXgLPPh1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IP7k[7R=DQVO_ZZ[@[QD]D1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752436272
+8dp_RAM.v
+Fdp_RAM.v
+!i122 32
+L0 1 27
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752502888.000000
+!s107 tb_sp_ram.v|tb_fifo.v|tb_dp_ram.v|sp_RAM.v|FIFO.v|dp_RAM.v|
+Z6 !s90 dp_RAM.v|FIFO.v|sp_RAM.v|tb_dp_ram.v|tb_fifo.v|tb_sp_ram.v|
+!i113 1
+Z7 tCvgOpt 0
+vdual_port_ram_DUT
+R1
+!i10b 1
+!s100 7XFnEYFmVA3N<Qo_I^>I43
+R2
+IHVbWLH8Gn]mDPbHa2CM6b1
+R3
+R0
+w1752436963
+8tb_dp_ram.v
+Ftb_dp_ram.v
+!i122 32
+L0 1 63
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_sp_ram.v|tb_fifo.v|tb_dp_ram.v|sp_RAM.v|FIFO.v|dp_RAM.v|
+R6
+!i113 1
+R7
+ndual_port_ram_@d@u@t
+vfifo
+R1
+!i10b 1
+!s100 >o;]IF`0C0DcFf1fBAM3=3
+R2
+I?nYh0Vl3OW<=Q?S]Y8kD80
+R3
+R0
+w1752502781
+8FIFO.v
+FFIFO.v
+!i122 32
+L0 1 37
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vfifo_DUT
+Z9 !s110 1752502889
+!i10b 1
+!s100 2@nfzV5f8;<HGG5:aj?Rl0
+R2
+IF8VBYJD`1jaBQ;PTK@BIl2
+R3
+R0
+w1752502886
+8tb_fifo.v
+Ftb_fifo.v
+!i122 32
+L0 1 97
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nfifo_@d@u@t
+vsingle_port_ram
+R1
+!i10b 1
+!s100 9kR31=@@IeOE]iO6f79LP2
+R2
+IW:Lco9oS]F:C^0VcOFZ4:1
+R3
+R0
+w1752425435
+8sp_RAM.v
+Fsp_RAM.v
+!i122 32
+L0 1 26
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vsingle_port_ram_tb
+R9
+!i10b 1
+!s100 RGS<jC7D3SVHkiB7l1QYE2
+R2
+ID6I2=eVJTIdjKZE8]`E]k3
+R3
+R0
+w1752429529
+8tb_sp_ram.v
+Ftb_sp_ram.v
+!i122 32
+L0 1 48
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

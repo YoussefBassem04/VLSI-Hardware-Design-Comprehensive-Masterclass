@@ -1,0 +1,28 @@
+# vsim fifo_DUT -c -do "run -all" 
+# Start time: 17:21:30 on Jul 14,2025
+# Loading work.fifo_DUT
+# Loading work.fifo
+# run -all
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 9 of file "memory_hex.txt". (Current address [8], address range [0:7])    : tb_fifo.v(39)
+#    Time: 0 ps  Iteration: 0  Instance: /fifo_DUT
+# Time 20: WRITE -> Addr=0, Data=ff
+# Time 30: WRITE -> Addr=1, Data=01
+# Time 40: WRITE -> Addr=2, Data=02
+# Time 50: WRITE -> Addr=3, Data=03
+# Time 60: WRITE -> Addr=4, Data=04
+# Time 70: WRITE -> Addr=5, Data=05
+# Time 80: WRITE -> Addr=6, Data=06
+# Time 90: WRITE -> Addr=7, Data=07
+# Time 125: READ SUCCESS -> Addr=0, Data=ff
+# Time 145: READ SUCCESS -> Addr=1, Data=01
+# Time 165: READ SUCCESS -> Addr=2, Data=02
+# Time 185: READ SUCCESS -> Addr=3, Data=03
+# Time 205: READ SUCCESS -> Addr=4, Data=04
+# Time 225: READ SUCCESS -> Addr=5, Data=05
+# Time 245: READ SUCCESS -> Addr=6, Data=06
+# Time 265: READ SUCCESS -> Addr=7, Data=07
+# FIFO Test Completed.
+# ** Note: $stop    : tb_fifo.v(81)
+#    Time: 280 ps  Iteration: 0  Instance: /fifo_DUT
+# Break in Module fifo_DUT at tb_fifo.v line 81
+# Stopped at tb_fifo.v line 81
