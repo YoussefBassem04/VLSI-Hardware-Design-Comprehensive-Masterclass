@@ -1,37 +1,31 @@
-# vsim tb_color_balls_box -c -do "run -all" 
-# Start time: 04:15:09 on Jul 15,2025
-# Loading work.tb_color_balls_box
-# Loading work.color_balls_box
+# vsim vm_DUT -c -do "run -all" 
+# Start time: 15:42:56 on Jul 15,2025
+# Loading work.vm_DUT
+# Loading work.vendig_machine
 # run -all
-# 
-# --- Test 1: R -> G -> B ---
-# Red   	det = 0
-# Green 	det = 0
-# Blue  	det = 1
-# 
-# --- Test 2: B -> R -> G ---
-# Blue  	det = 0
-# Red   	det = 0
-# Green 	det = 1
-# 
-# --- Test 3: G -> B -> R ---
-# Green 	det = 0
-# Blue  	det = 0
-# Red   	det = 1
-# 
-# --- Test 4: Repeating R Only ---
-# Red   	det = 0
-# Red   	det = 0
-# Red   	det = 0
-# 
-# --- Test 5: R -> G -> R -> B (non-overlapping) ---
-# Red   	det = 0
-# Green 	det = 0
-# Red   	det = 0
-# Blue  	det = 1
-# 
-# --- Testbench Finished ---
-# ** Note: $finish    : tb_color_box.v(98)
-#    Time: 256 ns  Iteration: 0  Instance: /tb_color_balls_box
-# End time: 04:15:09 on Jul 15,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
+# Time: 0 | Start: 0 | Rst: 0 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 5000 | Start: 0 | Rst: 0 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 10000 | Start: 0 | Rst: 0 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 15000 | Start: 0 | Rst: 0 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 20000 | Start: 0 | Rst: 1 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 25000 | Start: 0 | Rst: 1 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 30000 | Start: 1 | Rst: 1 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 35000 | Start: 1 | Rst: 1 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 40000 | Start: 0 | Rst: 1 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 45000 | Start: 0 | Rst: 1 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 50000 | Start: 0 | Rst: 1 | Clk: 0 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 55000 | Start: 0 | Rst: 1 | Clk: 1 | Choice: 0 | Coins: 00 | Done: 0 | Product: 00 | Change: 00
+# Time: 60000 | Start: 0 | Rst: 1 | Clk: 0 | Choice: 0 | Coins: 01 | Done: 1 | Product: 01 | Change: 01
+# Time: 65000 | Start: 0 | Rst: 1 | Clk: 1 | Choice: 0 | Coins: 01 | Done: 1 | Product: 01 | Change: 01
+# Time: 70000 | Start: 0 | Rst: 1 | Clk: 0 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 75000 | Start: 0 | Rst: 1 | Clk: 1 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 80000 | Start: 1 | Rst: 1 | Clk: 0 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 85000 | Start: 1 | Rst: 1 | Clk: 1 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 90000 | Start: 1 | Rst: 1 | Clk: 0 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 95000 | Start: 1 | Rst: 1 | Clk: 1 | Choice: 1 | Coins: 01 | Done: 0 | Product: 00 | Change: 00
+# Time: 100000 | Start: 1 | Rst: 1 | Clk: 0 | Choice: 1 | Coins: 10 | Done: 0 | Product: 00 | Change: 00
+# Time: 105000 | Start: 1 | Rst: 1 | Clk: 1 | Choice: 1 | Coins: 10 | Done: 0 | Product: 00 | Change: 00
+# ** Note: $stop    : tb_vm.v(51)
+#    Time: 110 ns  Iteration: 0  Instance: /vm_DUT
+# Break in Module vm_DUT at tb_vm.v line 51
+# Stopped at tb_vm.v line 51

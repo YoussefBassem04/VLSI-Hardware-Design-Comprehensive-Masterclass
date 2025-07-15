@@ -8,48 +8,115 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/FSM
+dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/FSM
 vcolor_balls_box
-Z1 !s110 1752542107
+Z0 !s110 1752583375
 !i10b 1
 !s100 ]3A^KFYa1i3Y0i;zG[zQ]3
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IPmd`KlbNDn=YnCibe;Um;3
-Z3 VDg1SIo80bB@j0V0VzS_@n1
-R0
-w1752542096
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Electronics - Analog and Digital/Verilog HDL VLSI Hardware Design Comprehensive Masterclass/5- FSM
+w1752542115
 8color_balls_box.v
 Fcolor_balls_box.v
-!i122 28
+!i122 37
 L0 1 43
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1752542107.000000
-!s107 tb_color_box.v|color_balls_box.v|
-Z6 !s90 color_balls_box.v|tb_color_box.v|
+Z5 !s108 1752583374.000000
+!s107 vending_machine.v|tb_vm.v|tb_color_box.v|color_balls_box.v|
+Z6 !s90 color_balls_box.v|tb_color_box.v|tb_vm.v|vending_machine.v|
 !i113 1
 Z7 tCvgOpt 0
 vtb_color_balls_box
-R1
+R0
 !i10b 1
 !s100 PT<[AOXNHIWi>cHF4HA?W2
-R2
+R1
 Imf@]9IZ5>QTD_K6G4VBC:3
+R2
 R3
-R0
 w1752541954
 8tb_color_box.v
 Ftb_color_box.v
-!i122 28
+!i122 37
 L0 3 99
 R4
 r1
 !s85 0
 31
 R5
-Z8 !s107 tb_color_box.v|color_balls_box.v|
+Z8 !s107 vending_machine.v|tb_vm.v|tb_color_box.v|color_balls_box.v|
 R6
 !i113 1
 R7
+vvendig_machine
+R0
+!i10b 1
+!s100 <Ga_Pb]<dfLe;:oDE;R3D3
+R1
+IVCBgaVFQM7]0njPOhGI^X3
+R2
+R3
+w1752583371
+Z9 8vending_machine.v
+Z10 Fvending_machine.v
+!i122 37
+Z11 L0 1 59
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vvm
+!s110 1752582856
+!i10b 1
+!s100 @m_hO9^ei9aOK7Qk3G2hD0
+R1
+I6Xg3RdDVdzg:Q4b0]Q>>b2
+R2
+R3
+w1752582853
+R9
+R10
+!i122 33
+R11
+R4
+r1
+!s85 0
+31
+!s108 1752582856.000000
+!s107 vending_machine.v|tb_color_box.v|color_balls_box.v|
+!s90 color_balls_box.v|tb_color_box.v|vending_machine.v|
+!i113 1
+R7
+vvm_DUT
+R0
+!i10b 1
+!s100 gBMdif1N5=ameQHXgA8`h1
+R1
+I:H[z[8n6FLcT]HTe?>Z020
+R2
+R3
+w1752583174
+8tb_vm.v
+Ftb_vm.v
+!i122 37
+R11
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+nvm_@d@u@t
